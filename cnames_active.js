@@ -3233,6 +3233,7 @@ var cnames_active = {
   "voloshins": "voloshins.github.io", // noCF? (don´t add this in a new PR)
   "vorpal": "dthree.github.io/vorpal", // noCF? (don´t add this in a new PR)
   "vortex": "puntillol59.github.io/vortex",
+  "volturi": "volturijs.github.io/volturi-docs",
   "voxelcss": "jhwohlgemuth.github.io/voxelcss",
   "vscode-api": "youngjuning.github.io/vscode-api",
   "vscode-api-cn": "youngjuning.github.io/vscode-api-cn",
